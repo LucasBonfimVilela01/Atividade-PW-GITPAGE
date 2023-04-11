@@ -4,7 +4,7 @@
 </head>
 <body>
     <h1 style="text-align: center;">COMO FAZER UMA GITPAGE</h1>
-    <h2 style="background-color: darkgrey;"><marquee scrollamount="15" >ATIVIDADE FEITA POR-LUCAS BONFIM VILELA</marquee></h2>
+<h6>Guia feito por-Lucas Bonfim Vilela</h6>
 <hr>
 <ol type="1">
     <li>Criar um novo repositório</li>
