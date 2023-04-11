@@ -15,6 +15,6 @@
 <li>Edite seu arquivo <b>READ ME</b> para incluir os códigos da sua página</li>
 </ol>
 <hr>
-<p>Este guia é feito apenas para descrever um modo <b>FÁCIL</b> e <b>RÁPIDO</b> de se fazer uma página, de forma alguma isso é um metôdo que poderia ser utilizado em meio profissional, mas para um projeto independende ou algo pessoal é mais que o suficiente</p>
+<p>Este guia é feito apenas para descrever um modo <b>FÁCIL</b> e <b>RÁPIDO</b> de se fazer uma página, de forma alguma isso é um método que poderia ser utilizado em meio profissional, mas para um projeto independende ou algo pessoal é mais que o suficiente</p>
 </body>
 </html>
