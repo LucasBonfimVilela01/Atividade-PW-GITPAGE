@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <title>Atividade PW-GIT PAGE</title>
 </head>
 <body>
     <h1 style="text-align: center;">COMO FAZER UMA GITPAGE</h1>
